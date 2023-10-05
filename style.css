@@ -1,0 +1,26 @@
+h1 {
+  color: rgb(39, 182, 82);
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+h1:hover {
+  color: rgb(0, 255, 42);
+}
+
+html {
+  background-color: rgb(191, 241, 186);
+}
+body {
+  background-color: white;
+  color: rgb(0, 0, 0);
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  border: 2px solid rgb(255, 30, 30);
+  margin: 70px auto;
+  width: 500px;
+  padding: 20px 60px;
+  border-radius: 20px;
+}
+h2 {
+  color: rgb(241, 82, 82);
+  text-decoration: underline;
+}
